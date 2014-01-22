@@ -1,5 +1,5 @@
-servocommander
-==============
+servocommand
+============
 
 Arduino program that receives serial commands and moves servos.
 
